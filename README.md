@@ -21,13 +21,18 @@
          2.    职责描述：（1）参与风信子官网的部分前端静态页面的开发 （2）独立开发了经纪商、管理后台及冷钱包的前端静态页面，包括管理后台中的总览图表显示（基于echarts开发，详请见下图） （3）独立对接了管理后台的HTTP请求接口，完成了管理员操作方面的比特币汇出、汇入、手动归集等操作
          3.    项目截图：
          
-         !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片1.png "典雅白主题下的交易页面一览")
-          !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片2.png "典雅白主题下的交易页面一览")
-           !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片3.png "典雅白主题下的交易页面一览")
-            !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片4.png "典雅白主题下的交易页面一览")
-             !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片5.png "典雅白主题下的交易页面一览")
-              !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片6.png "典雅白主题下的交易页面一览")
-               !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片7.png "典雅白主题下的交易页面一览")
-                !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片8.png "典雅白主题下的交易页面一览")
-                 !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片9.png "典雅白主题下的交易页面一览")
-                  !["典雅白主题下的交易页面一览"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片10.png "典雅白主题下的交易页面一览")
+         （1）风信子官网界面
+         !["风信子官网界面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片1.png "风信子官网界面")
+          !["风信子官网界面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片2.png "风信子官网界面")
+           !["风信子官网界面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片3.png "风信子官网界面")
+            !["风信子官网界面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片4.png "风信子官网界面")
+            
+            （2）经纪商页面
+            !["经纪商页面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片5.png "经纪商页面")
+            
+            （3）管理后台页面
+              !["管理后台页面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片6.png "管理后台页面")
+               !["管理后台页面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片7.png "管理后台页面")
+                !["管理后台页面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片8.png "管理后台页面")
+                 !["管理后台页面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片9.png "管理后台页面")
+                  !["管理后台页面"](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/风信子区块链货币交易平台项目截图/图片10.png "管理后台页面")
